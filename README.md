@@ -9,8 +9,8 @@
 
 # Conhecimentos:
 
-- Python
-- JavaScript (Aprendendo)
+- Python ( Médio )
+- JavaScript ( Médio )
 - HTML e CSS (Basico)
 - Versionamento GIT (Basico)
 - C++ em Embarcados (Basico)
