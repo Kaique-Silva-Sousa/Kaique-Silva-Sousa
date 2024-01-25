@@ -2,8 +2,8 @@
 
 - 🎂 Tenho 18 anos
 - 🌱 Estou atualmente estudando Python 3 e JavaScript
-- 📚 Cursando o Ensino Médio
-- 💻 Integrado com Curso  Tecnico em Eletrônica 
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Tecnico em Eletrônica 
 - 🤖 [Clique aqui para visitar meu perfil do TinkerCad](https://www.tinkercad.com/users/2dfV9ivrX1B?category=circuits&sort=likes&view_mode=default)
 - 💡 [Repositorios](https://github.com/Kaique-Silva-Sousa?tab=repositories)
 
