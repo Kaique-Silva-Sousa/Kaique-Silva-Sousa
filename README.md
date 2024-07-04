@@ -1,6 +1,6 @@
 # Olá, sou o Kaique da Silva Sousa👋
 
-- 🎂 Tenho 18 anos
+- 🎂 Tenho 19 anos
 - 🌱 Estou atualmente estudando Python 3 e JavaScript
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Tecnico em Eletrônica 
