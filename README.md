@@ -1,7 +1,7 @@
 # Olá, sou o Kaique da Silva Sousa👋
 
 - 🎂 Tenho 19 anos
-- 🌱 Estou atualmente estudando Python 3 e JavaScript
+- 🌱 Tecnologias que utilizo: Python e JavaScript
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Tecnico em Eletrônica 
 - 🤖 [Clique aqui para visitar meu perfil do TinkerCad](https://www.tinkercad.com/users/2dfV9ivrX1B?category=circuits&sort=likes&view_mode=default)
@@ -15,9 +15,15 @@
 - Versionamento GIT (Basico)
 - C++ em Embarcados (Basico)
 
+# Foco atual:
+
+- Análise de dados com Pandas
+- Power BI
+- Amazon Redshift
+
 # Proximos estudos:
 
-- Aprofundar em Node / Express
+- Pretendo voltar em algum momento os estudos em JS e aprofundar em Node / Express /  NestJS
 - Aprofundar no MySQL e MongoDB
 
 <div style="display: inline_block"><br>
